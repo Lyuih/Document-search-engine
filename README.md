@@ -1,6 +1,6 @@
-# Yui Boost Searcher
+# Boost Searcher
 
-Yui Boost Searcher 是一个基于 C++、Boost、cppjieba 实现的简易全文搜索引擎，支持对 Boost 官方文档的解析、索引构建和高效搜索，并带有简洁的 Web 前端界面。
+Boost Searcher 是一个基于 C++、Boost、cppjieba 实现的简易全文搜索引擎，支持对 Boost 官方文档的解析、索引构建和高效搜索，并带有简洁的 Web 前端界面。
 
 ## 功能特性
 
